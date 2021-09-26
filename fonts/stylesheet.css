@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Bridone';
+    src: url('Bridone-Book.woff2') format('woff2'),
+        url('Bridone-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bridone';
+    src: url('Bridone-LightItalic.woff2') format('woff2'),
+        url('Bridone-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marta';
+    src: url('Marta-Bold.woff2') format('woff2'),
+        url('Marta-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marta';
+    src: url('Marta.woff2') format('woff2'),
+        url('Marta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
